@@ -1,2 +1,2 @@
 # myHub
-learn to use
+learn how to use
